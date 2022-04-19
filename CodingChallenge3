@@ -1,0 +1,7 @@
+function FirstReverse(str) { 
+    str = Array.from(str).reverse().join("");
+    return str; 
+}
+   
+// keep this function call here 
+console.log(FirstReverse("I Love Code"));
