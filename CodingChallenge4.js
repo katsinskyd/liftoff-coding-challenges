@@ -10,4 +10,4 @@ function LongestWord(sen) {
     return wordArray.shift(); 
   }
 
-console.log(LongestWord("the@@@@^&$%^#$! lon'gest word is1"))
+console.log(LongestWord(" !grass lemon crane"))
